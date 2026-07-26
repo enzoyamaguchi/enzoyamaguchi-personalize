@@ -113,7 +113,7 @@ const sobreMim = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&rank=SSS,SS,S,AAA,AA,A,B" alt="Troféus do GitHub" />
+<img src="https://github-profile-trophy.vercel.app/?username=enzoyamaguchi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&rank=SSS,SS,S,AAA,AA,A,B" alt="Troféus do GitHub" />
 
 </div>
 
