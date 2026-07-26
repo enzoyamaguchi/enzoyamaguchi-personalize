@@ -1,20 +1,7 @@
-<!--
-  ============================================================
-  README DE PERFIL DO GITHUB
-  ------------------------------------------------------------
-  COMO USAR:
-  1. Crie um repositório com EXATAMENTE o mesmo nome do seu
-     usuário do GitHub (ex: SEU_USUARIO/SEU_USUARIO).
-  2. Marque a opção "Add a README file" e deixe-o público.
-  3. Cole o conteúdo deste arquivo no README.md.
-  4. Troque TODOS os "SEU_USUARIO" pelo seu usuário real
-     (use Buscar e Substituir do seu editor).
-  ============================================================
--->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:0891b2,100:14b8a6&height=200&section=header&text=Ol%C3%A1,%20eu%20sou%20o%20SEU_NOME&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack%20%7C%20Apaixonado%20por%20c%C3%B3digo&descAlignY=55&descSize=18" alt="Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:0891b2,100:14b8a6&height=200&section=header&text=Ol%C3%A1,%20eu%20sou%20o%20Enzo&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack%20%7C%20Apaixonado%20por%20c%C3%B3digo&descAlignY=55&descSize=18" alt="Banner" />
 
 <!-- Typing / animação de texto -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=600&lines=Construindo+coisas+para+a+web;Sempre+aprendendo+algo+novo;Open+Source+%3C3;Vamos+codar+juntos!" alt="Typing SVG" />
@@ -25,13 +12,13 @@
 <a href="https://github.com/enzoyamaguchi">
   <img src="https://img.shields.io/github/followers/enzoyamaguchi?label=Seguidores&style=for-the-badge&color=2563eb&labelColor=0f172a&logo=github" alt="Seguidores" />
 </a>
-<a href="[https://linkedin.com/in/SEU_USUARIO](https://www.linkedin.com/in/enzoyamaguchi/)">
+<a href="[https://linkedin.com/in/enzoyamaguchi](https://www.linkedin.com/in/enzoyamaguchi/)">
   <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0891b2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a" alt="LinkedIn" />
 </a>
 <a href="mailto:enzoyamaguchi@icloud.com">
   <img src="https://img.shields.io/badge/Email-Fale%20comigo-14b8a6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" alt="Email" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visitas%20no%20perfil&color=2563eb&style=for-the-badge" alt="Visitas" />
+<img src="https://komarev.com/ghpvc/?username=enzoyamaguchi&label=Visitas%20no%20perfil&color=2563eb&style=for-the-badge" alt="Visitas" />
 
 </div>
 
@@ -80,7 +67,7 @@ const sobreMim = {
 
 <br /><br />
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=14b8a6&currStreakLabel=38bdf8" alt="Sequência de commits" />
+<img src="https://streak-stats.demolab.com?user=enzoyamaguchi&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=14b8a6&currStreakLabel=38bdf8" alt="Sequência de commits" />
 
 <br /><br />
 
