@@ -127,7 +127,7 @@ const sobreMim = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/enzoyamaguchi/enzoyamaguchi/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/enzoyamaguchi/enzoyamaguchi-personalize//output/snake.svg" alt="Snake animation" />
 
 <sub>
 Para ativar a cobrinha, crie o arquivo <code>.github/workflows/snake.yml</code> com o workflow abaixo.
