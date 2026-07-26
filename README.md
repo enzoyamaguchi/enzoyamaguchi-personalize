@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:0891b2,100:14b8a6&height=200&section=header&text=Ol%C3%A1,%20eu%20sou%20o%20Enzo&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack%20%7C%20Apaixonado%20por%20c%C3%B3digo&descAlignY=55&descSize=18" alt="Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:0891b2,100:14b8a6&height=200&section=header&text=Ol%C3%A1,%20eu%20sou%20o%20Enzo&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Estudante%20%20%20%7C%20Apaixonado%20por%20c%C3%B3digo&descAlignY=55&descSize=18" alt="Banner" />
 
 <!-- Typing / animação de texto -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=600&lines=Construindo+coisas+para+a+web;Sempre+aprendendo+algo+novo;Open+Source+%3C3;Vamos+codar+juntos!" alt="Typing SVG" />
@@ -12,7 +12,7 @@
 <a href="https://github.com/enzoyamaguchi">
   <img src="https://img.shields.io/github/followers/enzoyamaguchi?label=Seguidores&style=for-the-badge&color=2563eb&labelColor=0f172a&logo=github" alt="Seguidores" />
 </a>
-<a href="[https://linkedin.com/in/enzoyamaguchi](https://www.linkedin.com/in/enzoyamaguchi/)">
+<a href="https://linkedin.com/in/enzoyamaguchi">
   <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0891b2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a" alt="LinkedIn" />
 </a>
 <a href="mailto:enzoyamaguchi@icloud.com">
