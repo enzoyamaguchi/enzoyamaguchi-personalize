@@ -58,25 +58,6 @@ const sobreMim = {
 
 ---
 
-## Estatísticas do GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=enzoyamaguchi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=14b8a6&text_color=e2e8f0&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoyamaguchi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0&langs_count=8" alt="Linguagens mais usadas" />
-
-<br /><br />
-
-<img src="https://streak-stats.demolab.com?user=enzoyamaguchi&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=14b8a6&currStreakLabel=38bdf8" alt="Sequência de commits" />
-
-<br /><br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=enzoyamaguchi&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=38bdf8&line=14b8a6&point=e2e8f0&area=true" alt="Gráfico de atividade" />
-
-</div>
-
-<div align="center">
-
 ### Obrigado pela visita!
 
 <sub>Se algum projeto te ajudou, deixa uma estrela — isso me motiva bastante.</sub>
