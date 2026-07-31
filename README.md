@@ -38,7 +38,7 @@ const sobreMim = {
 }
 ```
 
-- Atualmente trabalhando em **[NexaShield](https://github.com/enzoyamaguchi/NexaShield)**
+- Atualmente trabalhando em **[FoxHole](https://github.com/enzoyamaguchi/FoxHole)**
 - Estudando **CyberSecurity**
 - Aberto para conversar sobre **desenvolvimento web, arquitetura e boas práticas**
 - Como me achar: **[@enzoyamaguchi](https://github.com/enzoyamaguchi/)**
